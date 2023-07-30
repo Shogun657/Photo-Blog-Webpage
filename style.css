@@ -1,0 +1,21 @@
+img{
+    width:27%;
+    margin : 1.5%;
+    border-bottom : 0.7em solid black;
+    background-size: cover;
+    transition : 0.25s;
+
+}
+img:hover{
+    transform: translateY(-5px);
+}
+nav{
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width : 30%;
+    margin-left : 1.5%;
+    padding : 1.5em 0;
+    font-size : 1.5em;
+    font-family: 'Teko', sans-serif;
+    font-weight: bolder;
+}
